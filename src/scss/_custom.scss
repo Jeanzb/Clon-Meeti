@@ -1,0 +1,22 @@
+//reescribir variables de bootstrap
+$rojo: #f34f51;
+$verde: #0098ae;
+$oscuro: #212121;
+
+//asignar paleta de colores a botstrap
+$primary: $rojo;
+$secondary: $verde;
+$dark: $oscuro;
+
+//tipografia
+
+$display-font-weight: 900;
+$headings-font-weight: 700;
+
+//cards
+
+$card-border-color: transparent;
+
+
+//importando bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
